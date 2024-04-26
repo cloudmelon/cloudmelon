@@ -36,7 +36,7 @@
 ### 📺 Latest YouTube Videos
 
 - [Quantum Computing + AI ? Simpliy explained in 4 minutes!](https://youtu.be/ZDijVuRBtWM?si=Iaqaw1bXryr43Wj9)
-- [Why is NVIDIA Explosively Growing in this AI era ? I AI infrastructure with GPU + Kubernetes!](https://youtu.be/KrmqURibQB8))
+- [Why is NVIDIA Explosively Growing in this AI era ? I AI infrastructure with GPU + Kubernetes!](https://youtu.be/KrmqURibQB8)
 - [How AI Robot Will TAKE OVER our jobs In 5 Years ? | Multimodal AI, AI Robots and Quantum AI!](https://youtu.be/ag-Vgwg1m8I)
 
 <!-- YOUTUBE:START -->
@@ -49,7 +49,7 @@
 ### 📕 My latest Blog Posts
 
 - [Decoding NVIDIA GPU Infrastructure for AI workloads](https://cloudmelonvision.com/decode-nvidia-gpu-infrastructure-for-ai-workloads/)
-- [Decoding multimodal AI foundation models!](https://cloudmelonvision.com/decoding-multimodal-ai-foundation-models-in-2024/))
+- [Decoding multimodal AI foundation models!](https://cloudmelonvision.com/decoding-multimodal-ai-foundation-models-in-2024/)
 - [What is Kubernetes really about ?!](https://cloudmelonvision.com/what-is-kubernetes-really-about/)
   
 <!-- BLOG-POST-LIST:START -->
