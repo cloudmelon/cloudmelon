@@ -13,7 +13,7 @@
 </p>
 
 
-## I'm an entrepreneur & creator, a published author, and an ex-PM at Microsoft
+## I'm an entrepreneur & creator, a published author, and a CNCF Ambassador
 
 - 🔭 I’m currently working on a new content creation AI for my startup [@iMelonArt](https://imelonart.com), and I will be using my own AI infrastructure with Kubernetes. 
 - 🌱 I’m currently learning transformers and GANs and deep diving into the science aspects of AI/ML as well as digital marketing
