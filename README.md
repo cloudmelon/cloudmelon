@@ -42,6 +42,7 @@
 ### 📺 Latest YouTube Videos
 
 - [Quantum Computing + AI ? Simpliy explained in 4 minutes!](https://youtu.be/ZDijVuRBtWM?si=Iaqaw1bXryr43Wj9)
+- [AGI + AI Robots ? Possible but dangerous](https://youtu.be/0bd4NLlfutE)
 - [Why is NVIDIA Explosively Growing in this AI era ? I AI infrastructure with GPU + Kubernetes!](https://youtu.be/KrmqURibQB8)
 - [How AI Robot Will TAKE OVER our jobs In 5 Years ? | Multimodal AI, AI Robots and Quantum AI!](https://youtu.be/ag-Vgwg1m8I)
 
@@ -54,6 +55,8 @@
 
 ### 📕 My latest Blog Posts
 
+- [How do AI supercomputers train and run large GenAI models?](https://cloudmelonvision.com/how-do-ai-supercomputers-train-and-run-large-genai-models/)
+- [How I built an LLM-based Local AI Step-by-Step for FREE in Docker Containers](https://cloudmelonvision.com/how-i-built-an-llm-based-local-ai-for-free-in-docker-containers/)
 - [Decoding NVIDIA GPU Infrastructure for AI workloads](https://cloudmelonvision.com/decode-nvidia-gpu-infrastructure-for-ai-workloads/)
 - [Decoding multimodal AI foundation models!](https://cloudmelonvision.com/decoding-multimodal-ai-foundation-models-in-2024/)
 - [What is Kubernetes really about ?!](https://cloudmelonvision.com/what-is-kubernetes-really-about/)
