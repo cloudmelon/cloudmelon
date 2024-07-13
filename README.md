@@ -41,10 +41,10 @@
 
 ### 📺 Latest YouTube Videos
 
+- [How Are Large GenAI Models Trained? | HPC + AI = ? Simply explained](https://youtu.be/7esbDFIuG8c)
 - [Quantum Computing + AI ? Simpliy explained in 4 minutes!](https://youtu.be/ZDijVuRBtWM?si=Iaqaw1bXryr43Wj9)
 - [AGI + AI Robots ? Possible but dangerous](https://youtu.be/0bd4NLlfutE)
 - [Why is NVIDIA Explosively Growing in this AI era ? I AI infrastructure with GPU + Kubernetes!](https://youtu.be/KrmqURibQB8)
-- [How AI Robot Will TAKE OVER our jobs In 5 Years ? | Multimodal AI, AI Robots and Quantum AI!](https://youtu.be/ag-Vgwg1m8I)
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
