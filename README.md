@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UC_0k4ajcxGesNoN9iBBvlig?logo=youtube&logoColor=e30505&color=e30505&style=for-the-badge)](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_0k4ajcxGesNoN9iBBvlig?logo=youtube&logoColor=e30505&color=e30505&style=for-the-badge)](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1)
-[![Website](https://img.shields.io/website?label=cloudmelonvision.com&style=for-the-badge&url=https%3A%2F%2Fcloudmelonvision.com)](https://cloudmelonvision.com)
+[![Website](https://img.shields.io/website?label=cloudmelonvision.com&style=for-the-badge&url=https%3A%2F%2Fcloudmelonvision.com)](https://cvisiona.com)
 <p>
 <a href="https://melonyqin.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://github.com/cloudmelon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -55,16 +55,16 @@
 
 ### 📕 My latest Blog Posts
 
-- [How do AI supercomputers train and run large GenAI models?](https://cloudmelonvision.com/how-do-ai-supercomputers-train-and-run-large-genai-models/)
-- [How I built an LLM-based Local AI Step-by-Step for FREE in Docker Containers](https://cloudmelonvision.com/how-i-built-an-llm-based-local-ai-for-free-in-docker-containers/)
-- [Decoding NVIDIA GPU Infrastructure for AI workloads](https://cloudmelonvision.com/decode-nvidia-gpu-infrastructure-for-ai-workloads/)
-- [Decoding multimodal AI foundation models!](https://cloudmelonvision.com/decoding-multimodal-ai-foundation-models-in-2024/)
-- [What is Kubernetes really about ?!](https://cloudmelonvision.com/what-is-kubernetes-really-about/)
+- [How do AI supercomputers train and run large GenAI models?](https://cvisiona.com/how-do-ai-supercomputers-train-and-run-large-genai-models/)
+- [How I built an LLM-based Local AI Step-by-Step for FREE in Docker Containers](https://cvisiona.com/how-i-built-an-llm-based-local-ai-for-free-in-docker-containers/)
+- [Decoding NVIDIA GPU Infrastructure for AI workloads](https://cvisiona.com/decode-nvidia-gpu-infrastructure-for-ai-workloads/)
+- [Decoding multimodal AI foundation models!](https://cvisiona.com/decoding-multimodal-ai-foundation-models-in-2024/)
+- [What is Kubernetes really about ?!](https://cvisiona.com/what-is-kubernetes-really-about/)
   
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts on CloudMelon Vis Blog ...](https://cloudmelonvision.com/blogs)
+➡️ [more blog posts on CloudMelon Vis Blog ...](https://cvisiona.com/blogs)
 
 ---
   <img align="center" alt="cloudmelon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cloudmelon&show_icons=true&hide_border=false&title_color=3dcbf2&icon_color=49f5f5&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
