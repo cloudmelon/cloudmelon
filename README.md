@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UC_0k4ajcxGesNoN9iBBvlig?logo=youtube&logoColor=e30505&color=e30505&style=for-the-badge)](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_0k4ajcxGesNoN9iBBvlig?logo=youtube&logoColor=e30505&color=e30505&style=for-the-badge)](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1)
-[![Website](https://img.shields.io/website?label=cloudmelonvision.com&style=for-the-badge&url=https%3A%2F%2Fcloudmelonvision.com)](https://cvisiona.com)
+[![Website](https://img.shields.io/website?label=cvisiona.com&style=for-the-badge&url=https%3A%2F%2Fcvisiona.com)](https://cvisiona.com)
 <p>
 <a href="https://melonyqin.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://github.com/cloudmelon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
