@@ -13,7 +13,7 @@
 </p>
 
 
-## I'm an entrepreneur & technologist, a CNCF Ambassador, a Tech Lead on DevEx TAG and SIG-Release group member at CNCF, a published author of 4 tech books on cloud computing and Kubernetes, and a former tech product manager at Microsoft. 
+## I'm an entrepreneur & technologist, a CNCF Ambassador, a Tech Lead on DevEx TAG and SIG-Release group member at CNCF, and I published 4 tech books on cloud computing and Kubernetes.
 
 - 🔭 I’m currently working on a new stealth AI project currently under my IP studio [@iMelonArt](https://imelonart.com), and I will be using my own AI infrastructure with Kubernetes. 
 - 🌱 I’m currently learning transformers and GANs and deep diving into the science aspects of AI/ML as well as digital marketing
