@@ -13,16 +13,16 @@
 </p>
 
 
-## I'm an entrepreneur & technologist, a CNCF Ambassador, a Tech Lead on DevEx TAG and SIG-Release group member at CNCF, and I published 4 tech books on cloud computing and Kubernetes.
+## I'm an entrepreneur & technologist, a CNCF Ambassador, and the author of 4 tech books on cloud computing and Kubernetes.
 
 - 🔭 I’m currently working on a new stealth AI project currently under my IP studio [@iMelonArt](https://imelonart.com), and I will be using my own AI infrastructure with Kubernetes. 
 - 🌱 I’m currently learning transformers and GANs and deep diving into the science aspects of AI/ML as well as digital marketing
 - 👯 I’m looking to collaborate on my new MVP for my AI startup as well as content creation for my next-gen tech media [@CloudMelonVis on Youtube](https://www.youtube.com/@CloudMelonVis)
-- 🤔 I’m looking for help with VC support for computing, legal, marketing, social media, and community management 
+- 🤔 I’m building a founding team and looking for help with VC support for computing, legal, marketing, social media, and community management 
 - 📫 How to reach me: I love X (Ex-Twitter). It just feels so wrong to say this out loud...Elon Musk, please feel free to reach out to me and hear my feedback about the naming and your inevitable SEO challenges in this internet economy. So [@MelonyQ on X](https://twitter.com/MelonyQ)
 - ⚡ Fun facts No.1: I published 4 tech books over the course of 5 years : [The Kubernetes workshop](https://amzn.to/3na7qpc), [Certified Kubernetes Administrators (CKA) Exam Guide](https://amzn.to/3Vjzjrj), Microsoft Azure infrastructure and [Azure Integration Guides for business](https://amzn.to/3PRJVvo) by Packt Publishing. Now I'm building a new [author profile at Medium](https://melonyqin.com), and I hope one day I can be a best-selling author like Adam Grant or James Clear himself.
 - ⚡ Fun facts No.2: I manage a creative production team for video creation. 
-- ⚡ Fun facts No.3: I'm building a founding team for my new AI startup.
+- ⚡ Fun facts No.3: I'm a tech lead on Developer Experience TAG( Technical Advisory Group), a CNCF Ambassador and Kubernetes SIG ( Special Interest Group) release group member, releasing the No.2 largest open-source project in the world, aka. Kubernetes since 1.31.
 
 <br />
 
