@@ -15,7 +15,7 @@
 
 ## I'm an entrepreneur & technologist, a CNCF Ambassador, and the author of 4 tech books on cloud computing and Kubernetes.
 
-- 🔭 I’m currently working on a new stealth AI project currently under my IP studio [@iMelonArt](https://imelonart.com), and I will be using my own AI infrastructure with Kubernetes. 
+- 🔭 I’m currently working on a new stealth AI project under my IP studio [@iMelonArt](https://imelonart.com), and I will be using my own AI infrastructure with Kubernetes. 
 - 🌱 I’m currently learning transformers and GANs and deep diving into the science aspects of AI/ML as well as digital marketing
 - 👯 I’m looking to collaborate on my new MVP for my AI startup as well as content creation for my next-gen tech media [@CloudMelonVis on Youtube](https://www.youtube.com/@CloudMelonVis)
 - 🤔 I’m building a founding team and looking for help with VC support for computing, legal, marketing, social media, and community management 
@@ -60,6 +60,7 @@
 - [Decoding NVIDIA GPU Infrastructure for AI workloads](https://cvisiona.com/decode-nvidia-gpu-infrastructure-for-ai-workloads/)
 - [Decoding multimodal AI foundation models!](https://cvisiona.com/decoding-multimodal-ai-foundation-models-in-2024/)
 - [What is Kubernetes really about ?!](https://cvisiona.com/what-is-kubernetes-really-about/)
+- [Virtual kubelet and KEDA for AI Apps on Serverless Kubernetes](https://cvisiona.com/virtual-kubelet-and-keda-ai-apps-on-serverless-kubernetes/)
   
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -68,4 +69,7 @@
 
 ---
   <img align="center" alt="cloudmelon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cloudmelon&show_icons=true&hide_border=false&title_color=3dcbf2&icon_color=49f5f5&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img height=205  align="center" src="https://streak-stats.demolab.com/?user=cloudmelon&mode=weekly&starting_year=2018" />
+
+<br />
 
