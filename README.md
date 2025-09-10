@@ -65,7 +65,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts on CloudMelon Vis Blog ...](https://cvisiona.com/blogs)
+➡️ [more blog posts on CVisiona.com ...](https://cvisiona.com)
 
 ---
   <img align="center" alt="cloudmelon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cloudmelon&show_icons=true&hide_border=false&title_color=3dcbf2&icon_color=49f5f5&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
