@@ -17,12 +17,12 @@
 - 📫 In real-life: I'm a former Product Manager at Microsoft Developer Experience & Azure Data Devision, a tech lead on Developer Experience TAG( Technical Advisory Group), a CNCF Ambassador and Kubernetes SIG ( Special Interest Group) release group member, releasing the No.2 largest open-source project in the world, aka. Kubernetes since 1.31.
 - 🔭 I’m currently working on a new stealth AI project under my IP studio [@iMelonArt](https://imelonart.com), and my next-gen tech media [@CloudMelonVis on Youtube](https://www.youtube.com/@CloudMelonVis)
 - ⚡ My past work: I published 4 tech books over the course of 5 years : [The Kubernetes workshop](https://amzn.to/3na7qpc), [Certified Kubernetes Administrators (CKA) Exam Guide](https://amzn.to/3Vjzjrj), Microsoft Azure infrastructure and [Azure Integration Guides for business](https://amzn.to/3PRJVvo) by Packt Publishing. Now I'm building a new [author profile at Medium](https://melonyqin.com), and I hope one day I can be a best-selling author like Adam Grant or James Clear himself.
-
 <br />
 
----
+ <!--
+ ---
 
- <!--<img align="center" alt="cloudmelon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cloudmelon&show_icons=true&hide_border=false&title_color=3dcbf2&icon_color=49f5f5&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+ <img align="center" alt="cloudmelon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cloudmelon&show_icons=true&hide_border=false&title_color=3dcbf2&icon_color=49f5f5&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   <img height=205  align="center" src="https://streak-stats.demolab.com/?user=cloudmelon&mode=weekly&starting_year=2018" /> -->
 
 <!-- ### Specialisation 
