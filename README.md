@@ -25,18 +25,19 @@
  <!--<img align="center" alt="cloudmelon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cloudmelon&show_icons=true&hide_border=false&title_color=3dcbf2&icon_color=49f5f5&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   <img height=205  align="center" src="https://streak-stats.demolab.com/?user=cloudmelon&mode=weekly&starting_year=2018" /> -->
 
-### Specialisation 
+<!-- ### Specialisation 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![Serverless](https://img.shields.io/badge/serverless-%230db7ed.svg?style=for-the-badge&logo=serverless&logoColor=white)![Generative AI](https://img.shields.io/badge/generative-ai-%235835CC.svg?style=for-the-badge&logo=generativeai&logoColor=white)![Multi-Cloud](https://img.shields.io/badge/multi-cloud-E95420?style=for-the-badge&logo=multicloud&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Go](https://img.shields.io/badge/go-0993e8?style=for-the-badge&logo=go&logoColor=white)![C#](https://img.shields.io/badge/csharp-7509e8?style=for-the-badge&logo=csharp&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <br />
 
-<!--### Languages & Tools
+<### Languages & Tools
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Go](https://img.shields.io/badge/go-0993e8?style=for-the-badge&logo=go&logoColor=white)![C#](https://img.shields.io/badge/csharp-7509e8?style=for-the-badge&logo=csharp&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![SQL Server](https://img.shields.io/badge/sqlserver-%23DD0031.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Helm](https://img.shields.io/badge/helm-0F1689.svg?&style=for-the-badge&logo=helm&logoColor=white)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)![Microsoft Azure](https://img.shields.io/badge/MicrosoftAzure-%234285F4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Google Cloud Platform](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 -->
 
 <br />
 
+<!--
 ---
 
 ### 📺 Latest YouTube Videos
@@ -45,9 +46,6 @@
 - [Quantum Computing + AI ? Simpliy explained in 4 minutes!](https://youtu.be/ZDijVuRBtWM?si=Iaqaw1bXryr43Wj9)
 - [AGI + AI Robots ? Possible but dangerous](https://youtu.be/0bd4NLlfutE)
 - [Why is NVIDIA Explosively Growing in this AI era ? I AI infrastructure with GPU + Kubernetes!](https://youtu.be/KrmqURibQB8)
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
 ➡️ [more videos from CVisiona on Youtube...](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1) and [Cloud-Native AI from Zero to Production Playlist](https://bit.ly/3BaEznH)
 
@@ -61,11 +59,9 @@
 - [Decoding multimodal AI foundation models!](https://cvisiona.com/decoding-multimodal-ai-foundation-models-in-2024/)
 - [What is Kubernetes really about ?!](https://cvisiona.com/what-is-kubernetes-really-about/)
 - [Virtual kubelet and KEDA for AI Apps on Serverless Kubernetes](https://cvisiona.com/virtual-kubelet-and-keda-ai-apps-on-serverless-kubernetes/)
-  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts on CVisiona.com ...](https://cvisiona.com)
 
 <br />
 
+-->
