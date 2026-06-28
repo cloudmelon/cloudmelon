@@ -21,11 +21,19 @@
 
 <br />
 
- <!--
- ---
+ <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=cloudmelon&hide_title=true&show_icons=true&theme=dracula&icon_color=970af5"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudmelon&layout=compact&theme=dracula"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
 
- <img align="center" alt="cloudmelon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cloudmelon&show_icons=true&hide_border=false&title_color=3dcbf2&icon_color=49f5f5&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <img height=205  align="center" src="https://streak-stats.demolab.com/?user=cloudmelon&mode=weekly&starting_year=2018" /> -->
 
 <!-- ### Specialisation 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![Serverless](https://img.shields.io/badge/serverless-%230db7ed.svg?style=for-the-badge&logo=serverless&logoColor=white)![Generative AI](https://img.shields.io/badge/generative-ai-%235835CC.svg?style=for-the-badge&logo=generativeai&logoColor=white)![Multi-Cloud](https://img.shields.io/badge/multi-cloud-E95420?style=for-the-badge&logo=multicloud&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Go](https://img.shields.io/badge/go-0993e8?style=for-the-badge&logo=go&logoColor=white)![C#](https://img.shields.io/badge/csharp-7509e8?style=for-the-badge&logo=csharp&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
