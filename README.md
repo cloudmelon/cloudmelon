@@ -20,16 +20,16 @@
   
 <br />
 
- <p align="center">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=cloudmelon&hide_title=true&show_icons=true&theme=dracula&icon_color=970af5"
+    src="./assets/github-stats.svg"
     height="165"
-    alt="GitHub Stats"
+    alt="Cloudmelon's GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudmelon&layout=compact&theme=dracula"
+    src="./assets/top-langs.svg"
     height="165"
-    alt="Top Languages"
+    alt="Cloudmelon's most-used languages"
   />
 </p>
 
