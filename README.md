@@ -14,8 +14,8 @@
 
 
 ## I'm an entrepreneur & technologist
-- 📫 In real-life: I'm a former Product Manager at Microsoft Developer Experience & Azure Data Division, a tech lead on Developer Experience TAG( Technical Advisory Group), a CNCF Ambassador, and a Kubernetes SIG ( Special Interest Group) release group member, releasing the No.2 largest open-source project in the world, aka. Kubernetes since 1.31.
-- 🔭 I’m currently working on a new stealth AI project under my IP studio [@iMelonArt](https://imelonart.com), and my next-gen tech media [@CVisiona on Youtube](https://www.youtube.com/@CloudMelonVis)
+- 📫 In real-life: I'm a technologist turned entrepreneur, a former Product Manager at Microsoft Developer Experience & Azure Data Division, a tech lead on Developer Experience TAG( Technical Advisory Group), a CNCF Ambassador, and a Kubernetes SIG ( Special Interest Group) release group member, releasing the No.2 largest open-source project in the world, aka. Kubernetes from 1.31 to 1.34.
+- 🔭 I’m currently working on a new stealth AI project under my IP studio [@iMelonArt](https://imelonart.com), and my next-gen tech media [@CVisiona on Youtube](https://www.youtube.com/@CVisiona) and [my @CloudMelonVis channel](https://www.youtube.com/@CloudMelonVis)
 - ⚡ My past work: I published 4 tech books over the course of 5 years : [The Kubernetes workshop](https://amzn.to/3na7qpc), [Certified Kubernetes Administrators (CKA) Exam Guide](https://amzn.to/3Vjzjrj), Microsoft Azure infrastructure and [Azure Integration Guides for business](https://amzn.to/3PRJVvo) by Packt Publishing. Now I'm building a new [author profile at Medium](https://melonyqin.com), and I hope one day I can be a best-selling author like Adam Grant or James Clear himself.
   
 <br />
