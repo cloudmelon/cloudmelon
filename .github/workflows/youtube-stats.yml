@@ -1,0 +1,61 @@
+name: Update YouTube stats
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate YouTube badge data
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          CHANNEL_ID: UC_0k4ajcxGesNoN9iBBvlig
+        run: |
+          mkdir -p assets
+          curl -sf "https://www.googleapis.com/youtube/v3/channels?part=statistics&id=${CHANNEL_ID}&key=${YOUTUBE_API_KEY}" -o /tmp/channel.json
+          python3 - <<'EOF'
+          import json
+
+          stats = json.load(open("/tmp/channel.json"))["items"][0]["statistics"]
+
+          def compact(n):
+              n = int(n)
+              for div, suffix in ((1_000_000_000, "B"), (1_000_000, "M"), (1_000, "k")):
+                  if n >= div:
+                      return f"{n / div:.1f}".rstrip("0").rstrip(".") + suffix
+              return str(n)
+
+          for key, label, filename in (
+              ("viewCount", "views", "youtube-views.json"),
+              ("subscriberCount", "subscribers", "youtube-subscribers.json"),
+          ):
+              badge = {
+                  "schemaVersion": 1,
+                  "label": label,
+                  "message": compact(stats[key]),
+                  "color": "e30505",
+                  "namedLogo": "youtube",
+                  "logoColor": "e30505",
+              }
+              with open(f"assets/{filename}", "w") as f:
+                  json.dump(badge, f, indent=2)
+                  f.write("\n")
+          EOF
+
+      - name: Commit generated badge data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/youtube-views.json assets/youtube-subscribers.json
+          git diff --cached --quiet || git commit -m "Update YouTube stats"
+          git push
