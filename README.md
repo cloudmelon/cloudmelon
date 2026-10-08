@@ -1,7 +1,7 @@
 # Hi there, I'm Mélony - aka [CloudMelon]
 
-[![YouTube Channel Views](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fcloudmelon%2Fcloudmelon%2Fmain%2Fassets%2Fyoutube-views.json)](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1)
-[![YouTube Channel Subscribers](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fcloudmelon%2Fcloudmelon%2Fmain%2Fassets%2Fyoutube-subscribers.json)](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1)
+<!-- [![YouTube Channel Views](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fcloudmelon%2Fcloudmelon%2Fmain%2Fassets%2Fyoutube-views.json)](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fcloudmelon%2Fcloudmelon%2Fmain%2Fassets%2Fyoutube-subscribers.json)](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1) -->
 [![Website](https://img.shields.io/website?label=cvisiona.com&style=for-the-badge&url=https%3A%2F%2Fcvisiona.com)](https://cvisiona.com)
 <p>
 <a href="https://melonyqin.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
