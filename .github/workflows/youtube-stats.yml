@@ -1,8 +1,9 @@
 name: Update YouTube stats
 
 on:
-  schedule:
-    - cron: "0 4 * * *"
+  # Re-enable once the YOUTUBE_API_KEY secret is set
+  #schedule:
+  #  - cron: "0 4 * * *"
   workflow_dispatch:
 
 permissions:
