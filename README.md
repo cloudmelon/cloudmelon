@@ -21,11 +21,11 @@
 <br />
 
 <p align="center">
- <!-- <img
+  <img
     src="./assets/github-stats.svg"
     height="165"
     alt="Cloudmelon's GitHub statistics"
-  /> -->
+  />
   <img
     src="./assets/top-langs.svg"
     height="165"

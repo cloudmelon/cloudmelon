@@ -28,7 +28,7 @@ jobs:
           card: stats
           options: username=cloudmelon&hide_title=true&show_icons=true&theme=dracula&icon_color=970af5
           path: assets/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
