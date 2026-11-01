@@ -2,14 +2,19 @@
 
 <!-- [![YouTube Channel Views](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fcloudmelon%2Fcloudmelon%2Fmain%2Fassets%2Fyoutube-views.json)](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1)
 [![YouTube Channel Subscribers](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fcloudmelon%2Fcloudmelon%2Fmain%2Fassets%2Fyoutube-subscribers.json)](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1) -->
+[![Website](https://img.shields.io/website?label=melonyqin.com&style=for-the-badge&url=https%3A%2F%2Fmelonyqin.com)](https://melonyqin.com)
 [![Website](https://img.shields.io/website?label=cvisiona.com&style=for-the-badge&url=https%3A%2F%2Fcvisiona.com)](https://cvisiona.com)
 <p>
-<a href="https://melonyqin.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://github.com/cloudmelon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://twitter.com/melonyq" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://github.com/cloudmelon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://x.com/MelonyQ" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/melony-qin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://www.instagram.com/cloudmelonvis" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23DD0031.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.facebook.com/cloudmelon" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%23326ce5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>  
+<a href="https://bsky.app/profile/cloudmelon.bsky.social" target="_blank"><img alt="Bluesky" src="https://img.shields.io/badge/bluesky-%230285FF.svg?&style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+<a href="https://mastodon.social/@melonyqin" target="_blank"><img alt="Mastodon" src="https://img.shields.io/badge/mastodon-%236364FF.svg?&style=for-the-badge&logo=mastodon&logoColor=white" /></a>
+<a href="https://www.youtube.com/@CloudMelonVis" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://melonyqin.substack.com/" target="_blank"><img alt="Substack" src="https://img.shields.io/badge/substack-%23FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white" /></a>
+<a href="https://www.instagram.com/cloudmelonvis" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23DD0031.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.facebook.com/cloudmelon" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%23326ce5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://github.com/sponsors/cloudmelon" target="_blank"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-%23EA4AAA.svg?&style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
 </p>
 
 
