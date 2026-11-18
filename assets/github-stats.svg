@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">M&#233;lony QIN's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 139, Total Commits  (last year) : 688, Total PRs: 158, Total Issues: 97</desc>
+        <desc id="descId">Total Stars Earned: 139, Total Commits  (last year) : 729, Total PRs: 157, Total Issues: 96</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 60.00503300515207;
+        stroke-dashoffset: 59.475006074375955;
       }
     }
   
@@ -163,7 +163,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >688</text>
+      >729</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -178,7 +178,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >158</text>
+      >157</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -193,7 +193,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >97</text>
+      >96</text>
     </g>
   </g>
     </svg>
